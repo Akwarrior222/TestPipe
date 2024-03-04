@@ -1,18 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>My Simple Webpage</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Screenshot</title>
 </head>
 <body>
-
-<h1>Welcome to My Simple Webpage</h1>
-
-<?php
-// PHP code to display the current date and time
-echo "Current date and time: " . date("Y-m-d H:i:s");
-?>
-
-<p>This is a paragraph in my webpage.</p>
-
+    <h1>My Screenshot</h1>
+    <img src="Screenshot_2023-11-20_122144.png" alt="Screenshot">
 </body>
 </html>
